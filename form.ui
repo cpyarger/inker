@@ -833,7 +833,11 @@
           </size>
          </property>
          <property name="autoFillBackground">
-          <bool>true</bool>
+          <bool>false</bool>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(35, 36, 47);
+alternate-background-color: rgb(35, 36, 47);</string>
          </property>
          <property name="text">
           <string>Print</string>
