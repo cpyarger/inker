@@ -41,7 +41,7 @@
       </size>
      </property>
      <property name="currentIndex">
-      <number>0</number>
+      <number>1</number>
      </property>
      <widget class="QWidget" name="Home">
       <layout class="QGridLayout" name="gridLayout">
@@ -61,10 +61,6 @@
          </property>
          <property name="text">
           <string>Bed Level</string>
-         </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/bed-level.svg</normaloff>:/styles/z-bolt/images/bed-level.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -96,7 +92,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/control.svg</normaloff>:/styles/z-bolt/images/control.svg</iconset>
+           <normaloff>:/images/control.svg</normaloff>:/images/control.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -126,10 +122,6 @@
          <property name="text">
           <string>21C / 0C</string>
          </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/extruder-2.svg</normaloff>:/styles/z-bolt/images/extruder-2.svg</iconset>
-         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -157,10 +149,6 @@
          </property>
          <property name="text">
           <string>Filament</string>
-         </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/filament.svg</normaloff>:/styles/z-bolt/images/filament.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -190,10 +178,6 @@
          <property name="text">
           <string>21C / 0C</string>
          </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/extruder-3.svg</normaloff>:/styles/z-bolt/images/extruder-3.svg</iconset>
-         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -221,10 +205,6 @@
          </property>
          <property name="text">
           <string>21C / 0C</string>
-         </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/extruder-4.svg</normaloff>:/styles/z-bolt/images/extruder-4.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -254,10 +234,6 @@
          <property name="text">
           <string>Home</string>
          </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/home.svg</normaloff>:/styles/z-bolt/images/home.svg</iconset>
-         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -285,10 +261,6 @@
          </property>
          <property name="text">
           <string>21C / 0C</string>
-         </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/extruder-1.svg</normaloff>:/styles/z-bolt/images/extruder-1.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -320,7 +292,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/print.svg</normaloff>:/styles/z-bolt/images/print.svg</iconset>
+           <normaloff>:/images/print.svg</normaloff>:/images/print.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -349,10 +321,6 @@
          </property>
          <property name="text">
           <string>Bed Temp</string>
-         </property>
-         <property name="icon">
-          <iconset resource="icons.qrc">
-           <normaloff>:/styles/z-bolt/images/bed.svg</normaloff>:/styles/z-bolt/images/bed.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -392,10 +360,6 @@
          <property name="text">
           <string>System</string>
          </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/settings.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/settings.svg</iconset>
-         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -429,10 +393,6 @@
          </property>
          <property name="text">
           <string>Temperature</string>
-         </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/heat-up.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/heat-up.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -468,10 +428,6 @@
          <property name="text">
           <string>Back</string>
          </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/back.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/back.svg</iconset>
-         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -505,10 +461,6 @@
          </property>
          <property name="text">
           <string>Control</string>
-         </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/control.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/control.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -544,10 +496,6 @@
          <property name="text">
           <string>ToolChanger</string>
          </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/toolchanger.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/toolchanger.svg</iconset>
-         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -582,10 +530,6 @@
          <property name="text">
           <string>Network</string>
          </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/network.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/network.svg</iconset>
-         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -619,10 +563,6 @@
          </property>
          <property name="text">
           <string>Move</string>
-         </property>
-         <property name="icon">
-          <iconset>
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/move.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/move.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
