@@ -94,9 +94,9 @@
      <colorrole role="ButtonText">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>255</red>
+        <red>85</red>
         <green>255</green>
-        <blue>255</blue>
+        <blue>0</blue>
        </color>
       </brush>
      </colorrole>
@@ -240,9 +240,9 @@
      <colorrole role="ButtonText">
       <brush brushstyle="SolidPattern">
        <color alpha="255">
-        <red>255</red>
+        <red>85</red>
         <green>255</green>
-        <blue>255</blue>
+        <blue>0</blue>
        </color>
       </brush>
      </colorrole>
@@ -503,8 +503,8 @@
         <widget class="QToolButton" name="btnLevel">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -532,14 +532,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="1" column="4">
         <widget class="QToolButton" name="btnMenu">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -567,14 +570,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="1" column="0">
         <widget class="QToolButton" name="toolButton_10">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -602,14 +608,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="1" column="3">
         <widget class="QToolButton" name="btnFilament">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -637,14 +646,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="0" column="0">
         <widget class="QToolButton" name="toolButton_7">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -672,14 +684,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="0" column="1">
         <widget class="QToolButton" name="toolButton_8">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -707,14 +722,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="0" column="3">
         <widget class="QToolButton" name="btnHome">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -741,6 +759,9 @@
          </property>
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
+         </property>
+         <property name="autoRaise">
+          <bool>false</bool>
          </property>
         </widget>
        </item>
@@ -777,14 +798,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="2" column="3" colspan="2">
         <widget class="QToolButton" name="btnPrint">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -812,14 +836,17 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
        <item row="2" column="0" colspan="2">
         <widget class="QToolButton" name="btnBedTemp">
          <property name="sizePolicy">
           <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
-           <horstretch>2</horstretch>
-           <verstretch>2</verstretch>
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
           </sizepolicy>
          </property>
          <property name="minimumSize">
@@ -847,6 +874,9 @@
          <property name="toolButtonStyle">
           <enum>Qt::ToolButtonTextUnderIcon</enum>
          </property>
+         <property name="autoRaise">
+          <bool>false</bool>
+         </property>
         </widget>
        </item>
       </layout>
@@ -872,6 +902,9 @@
            <width>0</width>
            <height>0</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>System</string>
@@ -907,6 +940,9 @@
            <height>0</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>Temperature</string>
          </property>
@@ -940,6 +976,9 @@
            <width>0</width>
            <height>0</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>Back</string>
@@ -975,6 +1014,9 @@
            <height>0</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>Control</string>
          </property>
@@ -1008,6 +1050,9 @@
            <width>0</width>
            <height>0</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>ToolChanger</string>
@@ -1043,6 +1088,9 @@
            <height>0</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>Network</string>
          </property>
@@ -1076,6 +1124,9 @@
            <width>0</width>
            <height>0</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>Move</string>
