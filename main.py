@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # This Python file uses the following encoding: utf-8
 import sys
 import os
@@ -6,8 +7,8 @@ import os
 from PySide2.QtWidgets import QApplication, QWidget
 from PySide2.QtCore import QFile
 from PySide2.QtUiTools import QUiLoader
-
-
+from PySide2.QtGui import QIcon
+import rc_icons
 class MainWindow(QWidget):
     def __init__(self):
         super(MainWindow, self).__init__()
