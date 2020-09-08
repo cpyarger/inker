@@ -504,6 +504,10 @@
          <property name="text">
           <string>Bed Level</string>
          </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/bed-level.svg</normaloff>:/images/bed-level.svg</iconset>
+         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -564,6 +568,10 @@
          <property name="text">
           <string>21C / 0C</string>
          </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/extruder-1.svg</normaloff>:/images/extruder-1.svg</iconset>
+         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -591,6 +599,10 @@
          </property>
          <property name="text">
           <string>Filament</string>
+         </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/filament.svg</normaloff>:/images/filament.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -620,6 +632,10 @@
          <property name="text">
           <string>21C / 0C</string>
          </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/extruder-2.svg</normaloff>:/images/extruder-2.svg</iconset>
+         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -647,6 +663,10 @@
          </property>
          <property name="text">
           <string>21C / 0C</string>
+         </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/extruder-1.svg</normaloff>:/images/extruder-1.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -676,6 +696,10 @@
          <property name="text">
           <string>Home</string>
          </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/home.svg</normaloff>:/images/home.svg</iconset>
+         </property>
          <property name="iconSize">
           <size>
            <width>80</width>
@@ -703,6 +727,10 @@
          </property>
          <property name="text">
           <string>21C / 0C</string>
+         </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/extruder-3.svg</normaloff>:/images/extruder-3.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -763,6 +791,10 @@
          </property>
          <property name="text">
           <string>Bed Temp</string>
+         </property>
+         <property name="icon">
+          <iconset resource="icons.qrc">
+           <normaloff>:/images/bed.svg</normaloff>:/images/bed.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
