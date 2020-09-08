@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/icons/z-bolt">
+    <qresource prefix="/">
         <file>styles/z-bolt/images/actions.svg</file>
         <file>styles/z-bolt/images/back.svg</file>
         <file>styles/z-bolt/images/backspace.svg</file>
