@@ -64,7 +64,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/bed-level.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/bed-level.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/bed-level.svg</normaloff>:/styles/z-bolt/images/bed-level.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -96,7 +96,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/control.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/control.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/control.svg</normaloff>:/styles/z-bolt/images/control.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -128,7 +128,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/extruder-2.svg</normaloff>:/styles/z-bolt/images/extruder-2.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -160,7 +160,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/filament.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/filament.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/filament.svg</normaloff>:/styles/z-bolt/images/filament.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -192,7 +192,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/extruder-3.svg</normaloff>:/styles/z-bolt/images/extruder-3.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -224,7 +224,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/extruder-4.svg</normaloff>:/styles/z-bolt/images/extruder-4.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -256,7 +256,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/home.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/home.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/home.svg</normaloff>:/styles/z-bolt/images/home.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -288,7 +288,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/extruder-1.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/extruder-1.svg</normaloff>:/styles/z-bolt/images/extruder-1.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -320,7 +320,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/print.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/print.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/print.svg</normaloff>:/styles/z-bolt/images/print.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -352,7 +352,7 @@
          </property>
          <property name="icon">
           <iconset resource="icons.qrc">
-           <normaloff>:/icons/z-bolt/styles/z-bolt/images/bed.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/bed.svg</iconset>
+           <normaloff>:/styles/z-bolt/images/bed.svg</normaloff>:/styles/z-bolt/images/bed.svg</iconset>
          </property>
          <property name="iconSize">
           <size>
@@ -393,7 +393,7 @@
           <string>System</string>
          </property>
          <property name="icon">
-          <iconset resource="icons.qrc">
+          <iconset>
            <normaloff>:/icons/z-bolt/styles/z-bolt/images/settings.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/settings.svg</iconset>
          </property>
          <property name="iconSize">
@@ -431,7 +431,7 @@
           <string>Temperature</string>
          </property>
          <property name="icon">
-          <iconset resource="icons.qrc">
+          <iconset>
            <normaloff>:/icons/z-bolt/styles/z-bolt/images/heat-up.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/heat-up.svg</iconset>
          </property>
          <property name="iconSize">
@@ -469,7 +469,7 @@
           <string>Back</string>
          </property>
          <property name="icon">
-          <iconset resource="icons.qrc">
+          <iconset>
            <normaloff>:/icons/z-bolt/styles/z-bolt/images/back.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/back.svg</iconset>
          </property>
          <property name="iconSize">
@@ -507,7 +507,7 @@
           <string>Control</string>
          </property>
          <property name="icon">
-          <iconset resource="icons.qrc">
+          <iconset>
            <normaloff>:/icons/z-bolt/styles/z-bolt/images/control.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/control.svg</iconset>
          </property>
          <property name="iconSize">
@@ -545,7 +545,7 @@
           <string>ToolChanger</string>
          </property>
          <property name="icon">
-          <iconset resource="icons.qrc">
+          <iconset>
            <normaloff>:/icons/z-bolt/styles/z-bolt/images/toolchanger.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/toolchanger.svg</iconset>
          </property>
          <property name="iconSize">
@@ -583,7 +583,7 @@
           <string>Network</string>
          </property>
          <property name="icon">
-          <iconset resource="icons.qrc">
+          <iconset>
            <normaloff>:/icons/z-bolt/styles/z-bolt/images/network.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/network.svg</iconset>
          </property>
          <property name="iconSize">
@@ -621,7 +621,7 @@
           <string>Move</string>
          </property>
          <property name="icon">
-          <iconset resource="icons.qrc">
+          <iconset>
            <normaloff>:/icons/z-bolt/styles/z-bolt/images/move.svg</normaloff>:/icons/z-bolt/styles/z-bolt/images/move.svg</iconset>
          </property>
          <property name="iconSize">
