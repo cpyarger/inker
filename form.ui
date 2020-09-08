@@ -458,8 +458,17 @@
     </disabled>
    </palette>
   </property>
+  <property name="font">
+   <font>
+    <family>MS PGothic</family>
+    <pointsize>18</pointsize>
+   </font>
+  </property>
   <property name="windowTitle">
    <string>Inker</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>true</bool>
   </property>
   <layout class="QFormLayout" name="formLayout">
    <item row="0" column="0" colspan="2">
@@ -482,6 +491,9 @@
        <height>0</height>
       </size>
      </property>
+     <property name="autoFillBackground">
+      <bool>true</bool>
+     </property>
      <property name="currentIndex">
       <number>0</number>
      </property>
@@ -500,6 +512,9 @@
            <width>70</width>
            <height>70</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>Bed Level</string>
@@ -533,6 +548,9 @@
            <height>70</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>Menu</string>
          </property>
@@ -564,6 +582,9 @@
            <width>100</width>
            <height>100</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>21C / 0C</string>
@@ -597,6 +618,9 @@
            <height>70</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>Filament</string>
          </property>
@@ -628,6 +652,9 @@
            <width>70</width>
            <height>70</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>21C / 0C</string>
@@ -661,6 +688,9 @@
            <height>70</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>21C / 0C</string>
          </property>
@@ -692,6 +722,9 @@
            <width>70</width>
            <height>70</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>Home</string>
@@ -725,6 +758,9 @@
            <height>100</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>21C / 0C</string>
          </property>
@@ -757,6 +793,9 @@
            <height>70</height>
           </size>
          </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
+         </property>
          <property name="text">
           <string>Print</string>
          </property>
@@ -788,6 +827,9 @@
            <width>70</width>
            <height>70</height>
           </size>
+         </property>
+         <property name="autoFillBackground">
+          <bool>true</bool>
          </property>
          <property name="text">
           <string>Bed Temp</string>
